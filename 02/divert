@@ -1,0 +1,4 @@
+#! /bin/bash
+
+# send output to descriptor 5
+echo option $OPTSTR >&5
