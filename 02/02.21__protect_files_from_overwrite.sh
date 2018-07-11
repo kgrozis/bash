@@ -3,6 +3,7 @@
 # don't want a file to be over-written by redirect (clobber)
 # set -o noclobber: prevents redirects from over-writing
 #   if you attempt to over-write an error msg will be returned
+#   noclobber essentially takes place of file permission
 # set +o noclobber: allows redirects to over-write
 
 # allow redirects
