@@ -14,4 +14,4 @@ echo "long description on the shell"; echo "medium descripton"; echo "short"
 
 # use double amberstands on a single line
 # each program is ran is preceding programe worked
-echo "long description on the shell"; echo "medium descripton"; echo "short"
+echo "long description on the shell" && echo "medium descripton" && echo "short"
